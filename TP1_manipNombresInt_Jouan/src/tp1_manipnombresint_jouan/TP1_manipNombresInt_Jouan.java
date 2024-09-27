@@ -40,9 +40,9 @@ public class TP1_manipNombresInt_Jouan {
             System.out.println("Le reste de la division euclidienne du premier par le second est : " + reste);
         } 
        else {
-           
-           
+           System.out.println("la division par zéro n'est pas possible");  
        }
+    
     }
     
 }
