@@ -18,6 +18,7 @@ System.out.println("Bouteille de " + nom +" (" + degreAlcool +" degres) \nBrasse
 uneBiere.nom = "Cuvée des trolls";
 uneBiere.degreAlcool = 7.0 ;
 uneBiere.lireEtiquette();
-
+BouteilleBiere autreBiere = new BouteilleBiere("Leffe", 6.6
+,"Abbaye de Leffe") ;
 }
 }
